@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="UserChangeTest" time="6.035" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="UserChangeTest" time="4.686" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Users\User\.jdks\corretto-11.0.16.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire8316859408040202451\surefirebooter4518223365754371593.jar C:\Users\User\AppData\Local\Temp\surefire8316859408040202451 2022-11-16T22-12-43_731-jvmRun1 surefire17058339730979603417tmp surefire_012563776939025636186tmp"/>
+    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire15039155454812000028\surefirebooter6861159264658637864.jar C:\Users\User\AppData\Local\Temp\surefire15039155454812000028 2022-11-18T02-19-32_557-jvmRun1 surefire15145823816397525189tmp surefire_03721690572885153287tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\DIPLOP\Diplom_2\target\test-classes;D:\DIPLOP\Diplom_2\target\classes;C:\Users\User\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\User\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\User\.m2\repository\io\rest-assured\rest-assured\5.2.0\rest-assured-5.2.0.jar;C:\Users\User\.m2\repository\org\apache\groovy\groovy\4.0.1\groovy-4.0.1.jar;C:\Users\User\.m2\repository\org\apache\groovy\groovy-xml\4.0.1\groovy-xml-4.0.1.jar;C:\Users\User\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\User\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\User\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\User\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\User\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\User\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\User\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\User\.m2\repository\io\rest-assured\json-path\5.2.0\json-path-5.2.0.jar;C:\Users\User\.m2\repository\org\apache\groovy\groovy-json\4.0.1\groovy-json-4.0.1.jar;C:\Users\User\.m2\repository\io\rest-assured\rest-assured-common\5.2.0\rest-assured-common-5.2.0.jar;C:\Users\User\.m2\repository\io\rest-assured\xml-path\5.2.0\xml-path-5.2.0.jar;C:\Users\User\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\User\.m2\repository\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar;C:\Users\User\.m2\repository\io\qameta\allure\allure-junit4\2.19.0\allure-junit4-2.19.0.jar;C:\Users\User\.m2\repository\io\qameta\allure\allure-java-commons\2.19.0\allure-java-commons-2.19.0.jar;C:\Users\User\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\User\.m2\repository\io\qameta\allure\allure-model\2.19.0\allure-model-2.19.0.jar;C:\Users\User\.m2\repository\io\qameta\allure\allure-rest-assured\2.19.0\allure-rest-assured-2.19.0.jar;C:\Users\User\.m2\repository\io\qameta\allure\allure-attachments\2.19.0\allure-attachments-2.19.0.jar;C:\Users\User\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;C:\Users\User\.m2\repository\org\projectlombok\lombok\1.18.24\lombok-1.18.24.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire8316859408040202451\surefirebooter4518223365754371593.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire15039155454812000028\surefirebooter6861159264658637864.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.16.1+9-LTS"/>
@@ -62,10 +62,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="userCanNotChangeNameWithoutAuth" classname="UserChangeTest" time="0.912"/>
-  <testcase name="userCanNotChangePasswordWithoutAuth" classname="UserChangeTest" time="0.92"/>
-  <testcase name="userCanNotChangeEmailWithoutAuth" classname="UserChangeTest" time="0.971"/>
-  <testcase name="userChangeNameWithAuthTest" classname="UserChangeTest" time="1.132"/>
-  <testcase name="userChangeEmailWithAuthTest" classname="UserChangeTest" time="0.991"/>
-  <testcase name="userChangePasswordWithAuthTest" classname="UserChangeTest" time="1.103"/>
+  <testcase name="userCanNotChangeNameWithoutAuth" classname="UserChangeTest" time="0.739"/>
+  <testcase name="userCanNotChangePasswordWithoutAuth" classname="UserChangeTest" time="0.716"/>
+  <testcase name="userCanNotChangeEmailWithoutAuth" classname="UserChangeTest" time="0.731"/>
+  <testcase name="userChangeNameWithAuthTest" classname="UserChangeTest" time="0.845"/>
+  <testcase name="userChangeEmailWithAuthTest" classname="UserChangeTest" time="0.83"/>
+  <testcase name="userChangePasswordWithAuthTest" classname="UserChangeTest" time="0.818"/>
 </testsuite>
